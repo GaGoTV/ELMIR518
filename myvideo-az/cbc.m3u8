@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/cbcaz.m3u8?bandwidth=2096&e=1773000811&playlistlength=5&shift=0&sid=coder_52&token=f6fb59d7def1a60acd3d899fab9a2834&user=37076
+http://149.255.152.199/cbcaz.m3u8?bandwidth=2096&e=1773007932&playlistlength=5&shift=0&sid=coder_52&token=0f423f089c9681fc845573e5a82045a2&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1773000811&playlistlength=5&shift=0&sid=coder_52&token=f6fb59d7def1a60acd3d899fab9a2834&user=37076
+http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1773007932&playlistlength=5&shift=0&sid=coder_52&token=0f423f089c9681fc845573e5a82045a2&user=37076
