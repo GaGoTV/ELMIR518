@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6096000
-http://149.255.152.199/mcj.m3u8?bandwidth=6096&e=1773138890&playlistlength=5&shift=0&sid=coder_66&token=e4a177e61b2591d3a4d43ae309926826&user=37076
+http://149.255.152.199/mcj.m3u8?bandwidth=6096&e=1773146079&playlistlength=5&shift=0&sid=coder_66&token=69c9daa68fa3473d125a7e0316b4834c&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/mcj.m3u8?bandwidth=2096&e=1773138890&playlistlength=5&shift=0&sid=coder_66&token=e4a177e61b2591d3a4d43ae309926826&user=37076
+http://149.255.152.199/mcj.m3u8?bandwidth=2096&e=1773146079&playlistlength=5&shift=0&sid=coder_66&token=69c9daa68fa3473d125a7e0316b4834c&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/mcj.m3u8?bandwidth=796&e=1773138890&playlistlength=5&shift=0&sid=coder_66&token=e4a177e61b2591d3a4d43ae309926826&user=37076
+http://149.255.152.199/mcj.m3u8?bandwidth=796&e=1773146079&playlistlength=5&shift=0&sid=coder_66&token=69c9daa68fa3473d125a7e0316b4834c&user=37076
